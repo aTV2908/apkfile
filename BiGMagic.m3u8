@@ -4,5 +4,5 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2432826,AVERAGE-BANDWIDTH=2051035,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
 https://cflive-esports-hindi.zee5.com:443/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index_5.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2432826,AVERAGE-BANDWIDTH=2051035,RESOLUTION=1024x576,URI="https://cflive-esports-hindi.zee5.com:443/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index_5_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="und",LANGUAGE="und",DEFAULT=YES,AUTOSELECT=YES,URI="https://cflive-esports-hindi.zee5.com:443/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index_10_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="hindi",LANGUAGE="hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://cflive-esports-hindi.zee5.com:443/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index_10_0.m3u8"
 
